@@ -1,0 +1,6 @@
+{
+  "name": "NexaCart",
+  "description": "Next-Gen AI-Powered Futuristic e-Commerce & Delivery Super App created by EchoByte Technologies",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
