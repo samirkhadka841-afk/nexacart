@@ -2022,7 +2022,7 @@ fun NexaProductDetailScreen(viewModel: NexaViewModel) {
             )
         }
 
-        // Live Google Gemini Fake-Review Analyzer
+        // Live Nexa Fake-Review Analyzer
         item {
             Spacer(modifier = Modifier.height(12.dp))
             Card(
@@ -2051,7 +2051,7 @@ fun NexaProductDetailScreen(viewModel: NexaViewModel) {
                     Spacer(modifier = Modifier.height(4.dp))
 
                     Text(
-                        text = "Active Scanner: Double-blind checks algorithms backed by Google Gemini AI models.",
+                        text = "Active Scanner: Double-blind checks algorithms backed by AI models.",
                         fontSize = 10.sp,
                         color = CyberGray,
                         fontFamily = FontFamily.SansSerif
@@ -2579,7 +2579,7 @@ fun NexaAIAssistantScreen(viewModel: NexaViewModel) {
                     fontFamily = FontFamily.Monospace
                 )
                 Text(
-                    text = "Select your cybernetic style aesthetic, allowing Google Gemini to curate layered accessories.",
+                    text = "Select your cybernetic style aesthetic, allowing our Nexa AI to curate layered accessories.",
                     color = CyberGray,
                     fontSize = 10.sp,
                     modifier = Modifier.padding(bottom = 12.dp)
@@ -3535,7 +3535,7 @@ fun NexaSettingsScreen(viewModel: NexaViewModel, userProfile: UserProfile) {
                 val descLicensing = "This NexaEcosystem code is copyrighted and belongs exclusively to:\n" +
                         "Owner & CEO: Samir Khadka\n" +
                         "Consortium: EchoByte Technologies Inc.\n\n" +
-                        "Any synthetic duplication, redistribution, or replication of visual assets, circular spinners, or Gemini interface nodes without strict signature consent will trigger automatic microservice protocol compliance blocks."
+                        "Any synthetic duplication, redistribution, or replication of visual assets, circular spinners, or system interface nodes without strict signature consent will trigger automatic microservice protocol compliance blocks."
                 Text(
                     text = descLicensing,
                     color = Color.White.copy(alpha = 0.8f),
